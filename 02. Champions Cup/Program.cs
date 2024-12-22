@@ -1,18 +1,8 @@
-﻿using System.Drawing;
-using System;
-using System.Text;
+﻿using System.Text;
 
 int n = int.Parse(Console.ReadLine()!);
 StringBuilder sb = new();
 int cnt = 0;
-
-
-// top half full cup - N/2 rows
-// top half partial cup - N/2 + 1 rows
-// top of body transition line - 1 row
-// top of body N / 2 rows
-// logo
-// bottom of body N / 2 + 1 rows
 
 for (int i = 0; i < n; i += 2)
 {
