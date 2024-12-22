@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int[] nums = Console.ReadLine()
+    .Split(' ')
+    .Select(int.Parse)
+    .OrderByDescending(x => x)
+    .ToArray();
+
+
+Console.WriteLine(nums[0]);
