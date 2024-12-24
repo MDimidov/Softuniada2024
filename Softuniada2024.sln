@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Arithmetic Progression"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Palindromic Number", "06. Palindromic Number\06. Palindromic Number.csproj", "{6A21E857-FB30-47D4-925E-0741E086CFFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Special Numbers", "07. Special Numbers\07. Special Numbers.csproj", "{EB2FFDE0-F875-4760-BE22-CF9015FBEBFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{6A21E857-FB30-47D4-925E-0741E086CFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A21E857-FB30-47D4-925E-0741E086CFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A21E857-FB30-47D4-925E-0741E086CFFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB2FFDE0-F875-4760-BE22-CF9015FBEBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2FFDE0-F875-4760-BE22-CF9015FBEBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2FFDE0-F875-4760-BE22-CF9015FBEBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2FFDE0-F875-4760-BE22-CF9015FBEBFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
